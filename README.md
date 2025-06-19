@@ -7,7 +7,7 @@
 
 ## Анализ различных семейств и поиск генов
 
-Код, при помощи которого я выполнял данное задание: https://colab.research.google.com/drive/1kc2iYErxWlaw0SjYuZ1m-uAmQY4aG0q5?usp=sharing
+Код, при помощи которого я выполнял данную часть задания: https://colab.research.google.com/drive/1kc2iYErxWlaw0SjYuZ1m-uAmQY4aG0q5?usp=sharing
 
 Мною была использована программа hmmer. В данную таблицу я поместил только часть генов, остальные есть непосредственно в выводе программы в тетрадке.
 
@@ -37,7 +37,7 @@
 
 В репозитории есть bed-файлы результатом zhunt и zdnabert, которые я использовал непосредственно для поиска пересечений через `bedtools intersect`
 
-Мой код для выполнения задания: https://colab.research.google.com/drive/1QXdqqOTqYINr25O0hBCY2zwKZa8-vvGN?usp=sharing
+код: https://colab.research.google.com/drive/1QXdqqOTqYINr25O0hBCY2zwKZa8-vvGN?usp=sharing
 
 ### Таблица 1, количества попаданий
 | Участок                      | Число квадруплексов | Доля квадруплексов | Число предсказаний Zhun | Доля предсказаний Zhun | Число предсказаний ZDNABERT | Доля предсказаний ZDNABERT |
