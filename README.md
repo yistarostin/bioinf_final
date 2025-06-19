@@ -31,9 +31,11 @@
 
 Для развертывания ZDNABERT мною была выбрана следующая тетрадка с примерами работы: https://github.com/mitiau/Z-DNABERT/blob/main/ZDNA-prediction.ipynb
 
-Мне не удалось загрузить в репозиторий результат zhunt из-за большого веса файла (144 мегабайт), я загрузил его в облако. Файл с результатом работы ZDNABERT был разгружен в репозитории под названием `text_predictions.txt`.
+выходной файл z-hunt: https://disk.yandex.ru/d/3nxyEDlNifSs5A
 
-Файл с результатом поиска квадруплексов через регулярные выражения -- `quadruplexes.bed`.
+Файл с результатом работы ZDNABERT: `files_new/text_predictions.txt`.
+
+Файл с результатом поиска квадруплексов через регулярные выражения -- `filew_new/quadruplexes.bed`.
 
 В репозитории есть bed-файлы результатом zhunt и zdnabert, которые я использовал непосредственно для поиска пересечений через `bedtools intersect`
 
